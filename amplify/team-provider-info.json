@@ -10,5 +10,17 @@
             "StackName": "amplify-vue-website-master-20190522201910",
             "StackId": "arn:aws:cloudformation:ap-southeast-2:123259036795:stack/amplify-vue-website-master-20190522201910/46584b80-7c6a-11e9-9a9f-06912420643e"
         }
+    },
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-vue-website-dev-20190522202303-authRole",
+            "UnauthRoleArn": "arn:aws:iam::123259036795:role/amplify-vue-website-dev-20190522202303-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::123259036795:role/amplify-vue-website-dev-20190522202303-authRole",
+            "Region": "ap-southeast-2",
+            "DeploymentBucketName": "amplify-vue-website-dev-20190522202303-deployment",
+            "UnauthRoleName": "amplify-vue-website-dev-20190522202303-unauthRole",
+            "StackName": "amplify-vue-website-dev-20190522202303",
+            "StackId": "arn:aws:cloudformation:ap-southeast-2:123259036795:stack/amplify-vue-website-dev-20190522202303/d17a94c0-7c6a-11e9-9287-0638f534d61e"
+        }
     }
 }
