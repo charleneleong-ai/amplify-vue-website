@@ -1,1 +1,8 @@
-{}
+{
+	"auth": {
+		"amplifyvuetest": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation"
+		}
+	}
+}
